@@ -2,7 +2,12 @@ const prompt = require ("prompt-sync")();
 
 console.clear()
 
-console.log("História\nUm mecânico de helicópteros estava fazendo a manutenção no motor de um jaguar,\nquando de repente começou a chover muito e ventar muito forte.\nUm outro helicóptero chamado pantera estava do lado de fora na pista,\no mecânico vendo a situação tentou correr para amarrar as pás do pantera,\nmas não deu tempo e ele acabou tombando e sendo arrastado com o vento.")
+console.log(`História
+Um mecânico de helicópteros estava fazendo a manutenção no motor de um jaguar, 
+quando de repente começou a chover muito e ventar muito forte.
+Um outro helicóptero chamado pantera estava do lado de fora na pista,
+o mecânico vendo a situação tentou correr para amarrar as pás do pantera,
+mas não deu tempo e ele acabou tombando e sendo arrastado com o vento.`)
 
 console.log()
 
